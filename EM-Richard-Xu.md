@@ -1,4 +1,5 @@
 # Expectation Maximization(Richard Xu)
+Proof of convergence for E-M, examples of E-M through Gaussian Mixture Model
 
 ## Lecture Videos
 * [Youtube](https://www.youtube.com/playlist?list=PLyAft-JyjIYpno8IfZZS0mnxD5TYZ6BIc)

@@ -1,12 +1,12 @@
-# Expectation Maximization(Richard Xu)
-Explain Variational Bayes in two parts: non-exponential and exponential family distribution plus stochastic variational inference.
+# Non-parametric Bayes & applications (Richard Xu)
+* [DP (Richard Xu)](DP-Richard-Xu.md) - Dirichlet Process, Hieratical Dirichlet Process, HDP-HMM, Indian Buffet Process, and applications of DP to relational models.
 
 ## Lecture Videos
-* [VI - Youtube](https://www.youtube.com/playlist?list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfgNgc)
+* [DP - Youku](http://v.youku.com/v_show/id_XMTM3NDY0MDkxNg==.html?f=26896501)
 
 ## Lecture Notes
-* [Notes](Resources/VI-Richard-Xu/Lecture-Notes.pdf)
-* [External Links](http://www-staff.it.uts.edu.au/~ydxu/ml_course/variational.pdf)
+* [Notes](Resources/DP-Richard-Xu/Lecture-Notes.pdf)
+* [External Links](http://www-staff.it.uts.edu.au/~ydxu/ml_course/non_parametrics.pdf)
 
 ## Lecture Code/Demos
 <!-- * [Geometrically-constrained balloon fitting for multiple connected ellipses](http://www-staff.it.uts.edu.au/~ydxu/code/balloon/) -->

@@ -1,7 +1,9 @@
 # Markov Chain Monte Carlo(Richard Xu)
+Markov Chain Monte Carlo (MCMC), Gibbs, Bootstrap Particle Filter, and Auxiliary Particle Filter
 
 ## Lecture Videos
-* [Youtube](https://www.youtube.com/playlist?list=PLyAft-JyjIYq2SLTHO2ptmx-cChbE5GBm)
+* [MCMC - Youtube](https://www.youtube.com/playlist?list=PLyAft-JyjIYq2SLTHO2ptmx-cChbE5GBm)
+* [Particle Filter - Youku](http://v.youku.com/v_show/id_XMTM3MTE1Mjk2OA==.html?f=26896488)
 
 ## Lecture Notes
 * [Notes](Resources/MCMC-Richard-Xu/Lecture-Notes.pdf)

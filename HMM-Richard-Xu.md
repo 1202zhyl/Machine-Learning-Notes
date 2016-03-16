@@ -1,7 +1,9 @@
 # Expectation Maximization(Richard Xu)
+Derivations for Kalman Filter and Hidden Markov Model
 
 ## Lecture Videos
-* [Youtube](https://www.youtube.com/playlist?list=PLyAft-JyjIYoc9LN241WKqLPuggfSBBpt)
+* [HMM Youtube](https://www.youtube.com/playlist?list=PLyAft-JyjIYoc9LN241WKqLPuggfSBBpt)
+* [Kalman Filter Youku](http://v.youku.com/v_show/id_XMTM2ODU1MzMzMg==.html?f=26896484)
 
 ## Lecture Notes
 * [Notes](Resources/HMM-Richard-Xu/Lecture-Notes.pdf)
